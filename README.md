@@ -15,6 +15,10 @@ Installation
 2. Open Konsole and select Settings -> Configure Profiles -> Edit Profile -> Appearance, then select either of the Solarized themes.
 3. Click OK, then OK again, and the Solarized settings should have taken effect.
 
+Additional Apps
+---------------
+* If you like these colorschemes for konsole, you might enjoy @hayalci's support for [Kate and KColorChooser.](https://github.com/hayalci/kde-colors-solarized)
+
 The Values
 ----------
 

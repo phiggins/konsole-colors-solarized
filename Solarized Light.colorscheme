@@ -67,11 +67,11 @@ Color=253,246,227
 Transparency=false
 
 [BackgroundIntense]
-Color=147,161,161
+Color=238,232,213
 Transparency=false
 
 [Foreground]
-Color=131,148,150
+Color=101,123,131
 Transparency=false
 
 [ForegroundIntense]

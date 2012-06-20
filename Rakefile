@@ -58,8 +58,8 @@ COMMON = {
 task :light do
   colors = COMMON.merge(
     'Background'        => SOLARIZED[:base3],
-    'BackgroundIntense' => SOLARIZED[:base1],
-    'Foreground'        => SOLARIZED[:base0],
+    'BackgroundIntense' => SOLARIZED[:base2],
+    'Foreground'        => SOLARIZED[:base00],
     'ForegroundIntense' => SOLARIZED[:base01],
   )
 
@@ -69,8 +69,8 @@ end
 task :dark do
   colors = COMMON.merge(
     'Background'        => SOLARIZED[:base03],
-    'BackgroundIntense' => SOLARIZED[:base01],
-    'Foreground'        => SOLARIZED[:base00],
+    'BackgroundIntense' => SOLARIZED[:base02],
+    'Foreground'        => SOLARIZED[:base0],
     'ForegroundIntense' => SOLARIZED[:base1],
   )
 
